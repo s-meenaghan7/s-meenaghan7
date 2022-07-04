@@ -1,6 +1,3 @@
-```java
-                                                 System.out.println("hey there!");
-```
 <div align="center">
   <a href="https://www.codewars.com/users/s-meenaghan7">
     <img src="https://www.codewars.com/users/s-meenaghan7/badges/small" alt="Codewars Badge" />
