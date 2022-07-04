@@ -1,17 +1,11 @@
 <div align="center">
   <a href="https://www.codewars.com/users/s-meenaghan7">
-    <img src="https://www.codewars.com/users/s-meenaghan7/badges/small" alt="Codewars Badge" />
+    <img src="https://www.codewars.com/users/s-meenaghan7/badges/micro" alt="Codewars Badge" />
   </a>
-</div>
-
-<div align="center">
   <a href="https://www.linkedin.com/in/seanmeenaghan/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-</div>
-
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=s-meenaghan7&style=plastic&color=blue" alt="profile views counter"/>
+  <img src="https://komarev.com/ghpvc/?username=s-meenaghan7&style=plastic&color=blue" alt="profile views counter"/>
 </div>
 
 ---
@@ -27,9 +21,10 @@
   
 -<img 
     src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="Spring" height="20" width="20"
-/> I am also learning more about full-stack development to broaden my skillset and increase the value I can bring to a team.
+/> I am also learning more about full-stack development to broaden my skillset and increase the value I can bring to the team.
 
 -⚡ I like to focus my attention on project-based learning, but I also enjoy solving problems on Codewars and Leetcode to level up my programming skills and prepare for interviews.
+
 -📭 You can get in touch with me here: [![Linkedin Badge](https://img.shields.io/badge/-smeenaghan-blue?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/seanmeenaghan/) or, visit my website hosted on AWS <a href="https://www.seanmeenaghan.com/">here</a>!
 
 ---
