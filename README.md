@@ -21,7 +21,7 @@
   
 -<img 
     src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="Spring" height="20" width="20"
-/> I am also learning more about full-stack development to broaden my skillset and increase the value I can bring to the team.
+/> I am broadening my skillset by learning more about both frontend and backend development to increase the value I can bring to the team.
 
 -⚡ I like to focus my attention on project-based learning, but I also enjoy solving problems on Codewars and Leetcode to level up my programming skills and prepare for interviews.
 
