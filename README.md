@@ -1,11 +1,12 @@
 <div align="center">
   <a href="https://www.codewars.com/users/s-meenaghan7">
-    <img src="https://www.codewars.com/users/s-meenaghan7/badges/micro" alt="Codewars Badge" />
+    <img src="https://www.codewars.com/users/s-meenaghan7/badges/small" alt="Codewars Badge" />
   </a>
+ </div>
+<div align="center">
   <a href="https://www.linkedin.com/in/seanmeenaghan/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=s-meenaghan7&style=plastic&color=blue" alt="profile views counter"/>
 </div>
 
 ---
