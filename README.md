@@ -18,13 +18,13 @@
 
 -<img 
     src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" height="20" width="20"
-  /> The language I've worked the most with is Java, and I am currently exploring the Spring framework.
+  /> The language I have worked the most with is Java, and I am currently exploring the Spring framework.
   
 -<img 
-    src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="Spring" height="20" width="20"
-/> I am broadening my skillset by learning more about both frontend and backend development to increase the value I can bring to the team.
+    src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="ReactJS" height="20" width="20"
+/> I am currently working with ReactJS a lot, and having a ton of fun with it; broadening my skillset in the front-end and back-end to increase the value I bring to the team.
 
--⚡ I like to focus my attention on project-based learning, but I also enjoy solving problems on Codewars and Leetcode to level up my programming skills and prepare for interviews.
+-⚡ I like to focus my attention on project-based learning, but I also enjoy solving problems on Codewars and Leetcode to level up my programming skills and prepare for technical interviews.
 
 -📭 You can get in touch with me here: [![Linkedin Badge](https://img.shields.io/badge/-smeenaghan-blue?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/seanmeenaghan/) or, visit my website hosted on AWS <a href="https://www.seanmeenaghan.com/">here</a>!
 
@@ -34,11 +34,11 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" height="40" width="40"/>&emsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="Spring" height="40" width="40"/>&emsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" height="40" width="40"/>&emsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript" height="40" width="40"/>&emsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="ReactJS" height="40" width="40"/>&emsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" height="40" width="40"/>&emsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" height="40" width="40"/>&emsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" height="40" width="40"/>&emsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="40" width="40"/>&emsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40" width="40"/>&emsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" height="40" width="40"/>&emsp;
