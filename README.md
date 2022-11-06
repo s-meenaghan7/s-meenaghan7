@@ -12,19 +12,19 @@
 ---
 
 ### About Me:
--🎓 I am a recent graduate, attaining my Bachelor of Science in Software Development degree!
+-🎓 I am a recent university graduate, attaining my Bachelor of Science in Software Development degree!
 
--👨‍💻 I am currently working as an IT Support Analyst, but actively searching for my first opportunity as a Software Engineer at the new grad/junior/associate level.
+-👨‍💻 I am currently working as an IT Support Analyst, but actively seeking to take my analytical troubleshooting abilities into my first opportunity as a Software Engineer (at the new grad/junior/associate level).
 
 -<img 
     src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" height="20" width="20"
-  /> The language I have worked the most with is Java, and I am currently exploring the Spring framework.
+  /> The language I have worked the most with is Java, and I am currently exploring the Spring framework for modern, structured back-end development.
   
 -<img 
     src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="ReactJS" height="20" width="20"
-/> I am currently working with ReactJS a lot, and having a ton of fun with it; broadening my skillset in the front-end and back-end to increase the value I bring to the team.
+/> I have been diving into ReactJS and learning a lot, while having a ton of fun with it, too; broadening my skillset in the front-end to increase the value I bring to the team.
 
--⚡ I like to focus my attention on project-based learning, but I also enjoy solving problems on Codewars and Leetcode to level up my programming skills and prepare for technical interviews.
+-⚡ I focus my attention on project-based learning, but I also enjoy solving problems on Codewars and Leetcode to level up my programming skills and prepare for technical interviews.
 
 -📭 You can get in touch with me here: [![Linkedin Badge](https://img.shields.io/badge/-smeenaghan-blue?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/seanmeenaghan/) or, visit my website hosted on AWS <a href="https://www.seanmeenaghan.com/">here</a>!
 
