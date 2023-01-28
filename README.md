@@ -1,53 +1,57 @@
 <div align="center">
-  <a href="https://www.codewars.com/users/s-meenaghan7">
-    <img src="https://www.codewars.com/users/s-meenaghan7/badges/small" alt="Codewars Badge" />
-  </a>
- </div>
-<div align="center">
-  <a href="https://www.linkedin.com/in/seanmeenaghan/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
----
-
-### About Me:
--🎓 I am a recent university graduate, attaining my Bachelor of Science in Software Development degree!
-
--👨‍💻 I am currently working as an IT Support Analyst, but actively seeking to take my analytical troubleshooting abilities into my first opportunity as a Software Engineer (at the new grad/junior/associate level).
-
--<img 
-    src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" height="20" width="20"
-  /> The language I have worked the most with is Java, and I am currently exploring the Spring framework for modern, structured back-end development.
   
--<img 
-    src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="ReactJS" height="20" width="20"
-/> I have been diving into ReactJS and learning a lot, while having a ton of fun with it, too; broadening my skillset in the front-end to increase the value I bring to the team.
+  <div align="center">
+    <a href="https://www.codewars.com/users/s-meenaghan7">
+      <img src="https://www.codewars.com/users/s-meenaghan7/badges/small" alt="Codewars Badge" />
+    </a>
+   </div>
+  <div align="center">
+    <a href="https://www.linkedin.com/in/seanmeenaghan/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </div>
 
--⚡ I focus my attention on project-based learning, but I also enjoy solving problems on Codewars and Leetcode to level up my programming skills and prepare for technical interviews.
+  ---
 
--📭 You can get in touch with me here: [![Linkedin Badge](https://img.shields.io/badge/-smeenaghan-blue?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/seanmeenaghan/) or, visit my website hosted on AWS <a href="https://www.seanmeenaghan.com/">here</a>!
+  ### 🛠 Languages & Tools I use:
+  <div>
+    <a href="https://www.oracle.com/java/">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" height="40" width="40"/>&emsp;
+    </a>
+    <a href="https://spring.io/">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="Spring" height="40" width="40"/>&emsp;
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript" height="40" width="40"/>&emsp;
+    </a>
+    <a href="https://reactjs.org/">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="ReactJS" height="40" width="40"/>&emsp;
+    </a>
+    <a href="https://www.w3schools.com/html/">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" height="40" width="40"/>&emsp;
+    </a>
+    <a href="https://www.w3schools.com/Css/">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" height="40" width="40"/>&emsp;
+    </a>
+  <!--   <a href="https://www.python.org/">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" height="40" width="40"/>&emsp;
+    </a> -->
+    <a href="https://www.postgresql.org/">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="40" width="40"/>&emsp;
+    </a>
+    <a href="https://www.mysql.com/">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40" width="40"/>&emsp;
+    </a>
+    <a href="https://git-scm.com/">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" height="40" width="40"/>&emsp;
+    </a>
+  </div>
 
----
+  ---
 
-### 🛠 Languages & Tools I use:
+  ### 🔥 My Stats:
+
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=s-meenaghan7&theme=dark&background=000000)](https://git.io/streak-stats)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-meenaghan7&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" height="40" width="40"/>&emsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="Spring" height="40" width="40"/>&emsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript" height="40" width="40"/>&emsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="ReactJS" height="40" width="40"/>&emsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" height="40" width="40"/>&emsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" height="40" width="40"/>&emsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" height="40" width="40"/>&emsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="40" width="40"/>&emsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40" width="40"/>&emsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" height="40" width="40"/>&emsp;
-</div>
-
----
-
-### 🔥 My Stats:
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=s-meenaghan7&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-meenaghan7&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
