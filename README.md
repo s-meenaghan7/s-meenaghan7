@@ -36,6 +36,9 @@
   <!--   <a href="https://www.python.org/">
       <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" height="40" width="40"/>&emsp;
     </a> -->
+    <a href="https://www.mongodb.com/">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="40" width="40"/>&emsp;
+    </a>
     <a href="https://www.postgresql.org/">
       <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="40" width="40"/>&emsp;
     </a>
